@@ -694,8 +694,9 @@ textarea::-moz-textarea {font-family:'Century Gothic', sans-serif;}
 	outline: none;
 }
 
-.file-upload, .ya-cashbox-field-label, .ya-cashbox-field {
-	margin-bottom: 10px;
+.file-upload, .field-label, .ya-cashbox-field-label, .ya-cashbox-field {
+	display: inline-block;
+	margin-bottom: 6px;
 	font-size: 1.3rem;
 	line-height: 2rem;
 }
@@ -756,8 +757,8 @@ textarea::-moz-textarea {font-family:'Century Gothic', sans-serif;}
 
 /* Plugins & Services Styles */
 
-.yashare-auto-init {display:inline-block;}
-.ya_metrics {float:right;}
+.yashare-auto-init {display: inline-block;}
+.ya_metrics {float: right;}
 
 .error {
 	display: block;

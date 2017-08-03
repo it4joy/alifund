@@ -3,16 +3,16 @@
 			<div class="one-third fleft">
 				<p>© Все права защищены. Благотворительный фонд помощи детям с ДЦП «Али», 2014.</p>
 			</div>
-			
+
 			<div class="one-third fleft">
 				<p>Создание сайта: <a href="http://sensitivegraphics.com/" target="_blanc">Sensitive Graphics</a></p>
 			</div>
-			
+
 			<div class="one-third fleft">
 				<!-- Соцсети YaShare -->
 				<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
 				<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareTheme="dark" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki"></div>
-				
+
 				<!-- Yandex.Metrika informer -->
 				<div class="ya_metrics">
 				<a href="https://metrika.yandex.ru/stat/?id=26718168&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/26718168/3_0_202020FF_000000FF_1_pageviews"
@@ -20,19 +20,19 @@
 				</div>
 				<!-- /Yandex.Metrika informer -->
 			</div>
-			
+
 			<div class="clearfix"></div>
 		</div>
 	</footer>
-	
+
 	<!-- <div id="toTop"></div> -->
-	
+
 	<!-- Scripts -->
-	
+
 	<!-- Slider = slidesJS -->
 	<!-- ... -->
 	<!-- / Slider -->
-	
+
 	<div id="payment-instruction" class="hidden-block fancybox-content">
 		<h3 class="center">Инструкция по проведению SMS-платежа</h3>
 		<p class="mtop20">Вы можете помочь детям, отправив SMS-сообщение на наш короткий номер 7522. В сообщении укажите, пожалуйста, слово «АЛИ» и через пробел сумму пожертвования. <br> В ответ вы получите SMS-сообщение с просьбой подтвердить платеж. Отправив в ответном сообщении указанную цифру вы подтверждаете списание средств с баланса мобильного телефона.</p>
@@ -41,13 +41,13 @@
 		<p class="mtop20"><a href="docs/docs/Mobile_providers_rules_for_payments.pdf" target="_blank">Правила операторов по проведению платежей <i class="fa fa-angle-right"></i></a></p>
 		<p class="mtop20"><a href="http://moscow.megafon.ru/download/~federal/oferts/oferta_m_platezhi.pdf" target="_blank">Мегафон - Условия оказания услуги «Мобильные платежи» <i class="fa fa-angle-right"></i></a></p>
 	</div>
-	
+
 	<!-- Pop-Up -->
-	<script type="text/javascript" src="js/popup.js"></script>
+	<!-- <script type="text/javascript" src="js/popup.js"></script> -->
 	<!-- JQuery Validation -->
 	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="js/my_validate.js"></script>
-	
+
 	<script type="text/javascript">
 		$(function() {
 			$(".fancybox").fancybox({
@@ -59,7 +59,7 @@
 			});
 		});
 	</script>
-	
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
