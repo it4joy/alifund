@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Form With Attach Test</title>
+</head>
+
+<body>
+	<form method="post" action="php/test-3.php" enctype="multipart/form-data">
+		
+		<label for="name_child">ФИО ребенка:</label> <br />
+		<input type="text" name="name_child">
+		<br />
+		
+		<label for="birthday">Дата рождения:</label> <br />
+		<input type="text" name="birthday">
+		<br />
+		
+		<label for="location">Место проживания:</label> <br />
+		<input type="text" name="location">
+		<br />
+		
+		<label for="diagnosis">Диагноз на момент обращения:</label> <br />
+		<input type="text" name="diagnosis">
+		<br />
+		
+		<label for="name_addresser">ФИО обращающегося:</label> <br />
+		<input type="text" name="name_addresser">
+		<br />
+		
+		<label for="cognation">Родственная связь:</label> <br />
+		<input type="text" name="cognation">
+		<br />
+		
+		<label for="phone">Номер телефона:</label> <br />
+		<input type="text" name="phone">
+		<br />
+		
+		<label for="email">E-mail:</label> <br />
+		<input type="text" name="email">
+		<br />
+		
+		<label for="msg">Комментарий отправителя:</label> <br />
+		<textarea name="msg" rows="8" cols="50"></textarea>
+		<br />
+		
+		<label for="upload">Файл:</label>
+		<input type="file" name="upload">
+		<br />
+		<br />
+		<button type="submit">Отправить</button>
+		<button type="reset">Очистить</button>
+	</form>
+	
+</body>
+</html>
