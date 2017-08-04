@@ -670,10 +670,10 @@ textarea::-moz-textarea {font-family:'Century Gothic', sans-serif;}
 :-moz-placeholder {font-family:'Century Gothic', sans-serif;} /* FF 18- */
 :-ms-input-placeholder {font-family:'Century Gothic', sans-serif;}
 
-:focus::-webkit-input-placeholder {color:transparent;}
-:focus::-moz-placeholder {color:transparent;}
-:focus:-moz-placeholder {color:transparent;}
-:focus:-ms-input-placeholder {color:transparent;}
+:focus::-webkit-input-placeholder {color: #ccc;}
+:focus::-moz-placeholder {color: #ccc;}
+:focus:-moz-placeholder {color: #ccc;}
+:focus:-ms-input-placeholder {color: #ccc;}
 
 #order_form .field {
 	width: 100%;
@@ -684,18 +684,22 @@ textarea::-moz-textarea {font-family:'Century Gothic', sans-serif;}
 	background: #fff;
 	border: 1px solid #ccc;
 	border-radius: 6px;
-	color: #000;
+	font-weight: normal;
+	color: #333;
 }
 #order_form .field:focus {
-	background: #fea68e;
+	border-color: #fea68e;
 	color: #000;
-	font-weight: normal;
-	border: none;
-	outline: none;
 }
 
-.file-upload, .field-label, .ya-cashbox-field-label, .ya-cashbox-field {
+.file-upload, .field-label, .ya-cashbox-field-label {
 	display: inline-block;
+	margin-bottom: 6px;
+	font-size: 1.3rem;
+	line-height: 2rem;
+}
+.ya-cashbox-field {
+	display: block;
 	margin-bottom: 6px;
 	font-size: 1.3rem;
 	line-height: 2rem;
@@ -712,17 +716,15 @@ textarea::-moz-textarea {font-family:'Century Gothic', sans-serif;}
 	background: #fff;
 	border: 1px solid #ccc;
 	border-radius: 6px;
-	color: #000;
 	resize: vertical;
 	font-family: 'Century Gothic', sans-serif;
 	font-size: 1.3rem;
+	font-weight: normal;
+	color: #333;
 }
 #order_form .message:focus {
-	background: #fea68e;
+	border-color: #fea68e;
 	color: #000;
-	font-weight: normal;
-	border: none;
-	outline: none;
 }
 
 .form-order-btn {
