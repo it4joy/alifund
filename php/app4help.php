@@ -3,6 +3,10 @@
 	$mailto = "wf_ali@mail.ru";
 	//$mailto = "drkierkegor@gmail.com";
 
+	if ($_POST['verification'] != "7") {
+		exit();
+	}
+
 	$picture = "";
 	if (!empty($_FILES['upload']['tmp_name'])) {
 		$path = $_FILES['upload']['name'];
