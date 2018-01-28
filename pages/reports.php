@@ -51,8 +51,18 @@
 					<h6 class="mbot20"><i class="fa fa-calendar"></i> 2017</h6>
 
 					<div class="block mbot20">
+						<h6 class="inline"><i class="fa fa-file-text mright10"></i> Отчет о проведении мероприятия &laquo;Новый год приходит в дом&raquo; (16.12.-25.12.)</h6>
+						<h6 class="inline mleft16"><i class="fa fa-download mright10"></i><a href="docs/reports/2017/ny-comes-to-home-31-12/report-ny-comes-to-home-2017.pdf" target="_blanc">Просмотреть / Скачать</a> (.pdf)</h6>
+					</div>
+
+					<div class="block mbot20">
+						<h6 class="inline"><i class="fa fa-file-text mright10"></i> Отчет по проведению семинара &laquo;У моего ребенка ДЦП. Как быть?&raquo; (20.11.)</h6>
+						<h6 class="inline mleft16"><i class="fa fa-download mright10"></i><a href="docs/reports/2017/seminar-20-11/seminar-report-2017-11-20_c.pdf" target="_blanc">Просмотреть / Скачать</a> (.pdf)</h6>
+					</div>
+
+					<div class="block mbot20">
 						<h6 class="inline"><i class="fa fa-file-text mright10"></i> Отчет о проведении праздника &laquo;Карусель&raquo; для детей с ДЦП и их семей (01.07.)</h6>
-						<h6 class="inline mleft16"><i class="fa fa-download mright10"></i><a href="docs/reports/2017/holiday-carousel-03-07/holiday_carousel-2017-07-03.pdf" target="_blanc">Просмотреть / Скачать (.pdf)</a></h6>
+						<h6 class="inline mleft16"><i class="fa fa-download mright10"></i><a href="docs/reports/2017/holiday-carousel-03-07/holiday_carousel-2017-07-03.pdf" target="_blanc">Просмотреть / Скачать</a> (.pdf)</h6>
 					</div>
 
 					<div class="block mbot20">
