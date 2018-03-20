@@ -48,7 +48,11 @@
 				
 				<div class="fullwidth">
 					<h5 class="mbot-h">Благотворительная программа</h5>
-					
+
+                    <div class="block mbot20">
+						<h6 class="inline"><i class="fa fa-download mright10"></i><a href="docs/programme/Charity_program-2018.pdf" target="_blanc">Благотворительная программа на 2018 год (посмотреть / скачать).</a></h6>
+					</div>
+
 					<div class="block mbot20">
 						<h6 class="inline"><i class="fa fa-file-text mright10"></i><a rel="group" href="docs/programme/Charity_program-2017-h1000.jpg" title="Благотворительная программа на 2017 год.">Благотворительная программа на 2017 год.</a></h6>
 						<h6 class="inline mleft16"><i class="fa fa-download mright10"></i><a href="docs/programme/Charity_program-2017.pdf" target="_blanc">Скачать</a></h6>
