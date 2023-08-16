@@ -14,14 +14,14 @@
 	<link rel="shortcut icon" href="favicon.ico">
 	<!-- Add favicons for iphones ! -->
 	
-	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	<link rel="stylesheet" type="text/css" href="../css/main.css" />
 	<link rel="stylesheet" type="text/css" href="fonts/font-awesome.min.css" />
-	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox.css" /> <!--FancyBox-->
+	<link rel="stylesheet" type="text/css" href="../js/fancybox/jquery.fancybox.css" /> <!--FancyBox-->
 	
 	<!-- Scripts -->
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-	<script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script>
-	<script type="text/javascript" src="js/fancybox/jquery.mousewheel-3.0.4.js"></script>
+	<script type="text/javascript" src="../js/fancybox/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="../js/fancybox/jquery.mousewheel-3.0.4.js"></script>
 	
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -36,7 +36,7 @@
 <body>
   <div class="page-wrapper">
   
-	<?php require_once('php/header.php'); ?>
+	<?php require_once('../php/header.php'); ?>
 	
 	<div class="container">
 		
@@ -79,12 +79,12 @@
 			
 	</div> <!-- /.container -->
 	
-	<?php require_once('php/needs-form.php'); ?>
+	<?php require_once('../php/needs-form.php'); ?>
 	
 	<div class="page-buffer"></div>
   </div>
 	
-	<?php require_once('php/footer-scripts.php'); ?>
+	<?php require_once('../php/footer-scripts.php'); ?>
 
 </body>
 
