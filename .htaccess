@@ -1,1 +1,4 @@
 AddDefaultCharset UTF-8
+RewriteEngine On
+RewriteRule ^$ /plug.html [R=302,L]
+php_flag display_errors on
